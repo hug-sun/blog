@@ -190,28 +190,28 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
             {text:'生活规划',items:getDirctSidebar('life')}
           ]
         },
-        {
-          text:'面试题',
-          collapsible: true,
-          collapsed: true,
-          items:[
-            {text:'面试题',link:'/interview/'},
-          ]
-        },
+        // {
+        //   text:'面试题',
+        //   collapsible: true,
+        //   collapsed: true,
+        //   items:[
+        //     {text:'面试题',link:'/interview/'},
+        //   ]
+        // },
         
-        projectSidebar,
-        {
-          text:"源码漫游记",
-          collapsible: true,
-          collapsed: true,
-          items:getDirctSidebar('source')
-        },
-        {
-          text:"前端啃算法",
-          collapsible: true,
-          collapsed: true,
-          items:getDirctSidebar('algorithm')
-        }
+        // projectSidebar,
+        // {
+        //   text:"源码漫游记",
+        //   collapsible: true,
+        //   collapsed: true,
+        //   items:getDirctSidebar('source')
+        // },
+        // {
+        //   text:"前端啃算法",
+        //   collapsible: true,
+        //   collapsed: true,
+        //   items:getDirctSidebar('algorithm')
+        // }
       ],
     },
     footer: {

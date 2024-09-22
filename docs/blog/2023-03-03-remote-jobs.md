@@ -37,37 +37,3 @@
    2. 国外的前端的面试比较简单，简单的算法+八股文+系统设计，最难的题就是手写promise了
 
 客户端，测试都活的好好地，前端也会一直好好地 放心吧
-
-
-程序员找远程工作的资源
-
-纳瓦尔宝典作者的公司 https://www.angellist.com/
-
-电鸭远程工作者社区 : [eleduck.com](https://eleduck.com/)
-
-[阮一峰谁在招人](https://github.com/ruanyf/weekly/issues/2960)
-
-[Vercel 工作讨论区](https://github.com/vercel/next.js/discussions/44541)
-
-Vuejobs 相关远程: vuejobs.com
-
-JavascriptJob : [javascriptjob.xyz](https://javascriptjob.xyz/)
-
-远程工作 Jobs: remoteok.com
-
-欧洲远程工作 : justjoin.it
-
-web3招聘相关 : [abetterweb3.notion.site](https://abetterweb3.notion.site/)
-
-创业公司招人: angel.co/jobs
-
-接个人项目: upwork.com
-
-高端remote工作(号称只接受全球top 3% freelancer)：toptal.com
-
-创业公司： [startup.jobs](https://startup.jobs/)
-
-Bold Jobs: www.bolejobs.co/?s=05
-
-
-justremote : https://justremote.co/remote-jobs
